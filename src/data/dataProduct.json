@@ -1,0 +1,15 @@
+[
+	{
+		"category": "soy una categoria",
+		"code": "10020",
+		"description": "hola soy la descripcion",
+		"id": 1,
+		"price": 598,
+		"status": true,
+		"stock": 80,
+		"thumbnails": [
+			"kjfgvjhsdgfhsadf"
+		],
+		"title": "mal estado"
+	}
+]
